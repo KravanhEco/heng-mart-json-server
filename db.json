@@ -69,14 +69,12 @@
     {
       "day": "Saturday",
       "isActive": true,
-      "slotOneStart": 1632355253000,
-      "slotOneEnd": 1632330053000,
-      "slotTwoStart": 1632376853000,
-      "slotTwoEnd": 1632391253000
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000
     },
     {
       "day": "Sunday",
-      "isActive": true,
+      "isActive": false,
       "slotOneStart": 1632298871000,
       "slotOneEnd": 1632330053000
     }
