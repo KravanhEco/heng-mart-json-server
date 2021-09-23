@@ -511,5 +511,148 @@
         }
       ]
     }
+  ],
+  "card":[
+    {
+      "id": 1,
+      "customerId": 1,
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55,
+      "pointHistory":[
+        {
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        },
+        {
+          "id": 2, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        },
+        {
+          "id": 3, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        }
+      ],
+      "topUpHistory":[
+        {
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50
+        }
+      ]
+  },
+  {
+    "id": 2,
+    "customerId": 1,
+    "cardNumber": "234567",
+    "serial": "12345AH",
+    "balance": 12.00,
+    "point": 55,
+    "pointHistory":[
+      {
+        "id": 1, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50, 
+        "point": 5
+      },
+      {
+        "id": 2, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50, 
+        "point": 5
+      },
+      {
+        "id": 3, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50, 
+        "point": 5
+      }
+    ],
+    "topUpHistory":[
+      {
+        "id": 1, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50
+      }
+    ]
+},
+{
+  "id": 3,
+  "customerId": 1,
+  "cardNumber": "234567",
+  "serial": "12345AH",
+  "balance": 12.00,
+  "point": 55,
+  "pointHistory":[
+    {
+      "id": 1, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50, 
+      "point": 5
+    },
+    {
+      "id": 2, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50, 
+      "point": 5
+    },
+    {
+      "id": 3, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50, 
+      "point": 5
+    }
+  ],
+  "topUpHistory":[
+    {
+      "id": 1, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50
+    }
   ]
+}
+  ],
+  "cardByCustomerId":
+  {
+      "id": 1,
+      "customerId": 1,
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55,
+      "pointHistory":[
+        {
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        },
+        {
+          "id": 2, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        },
+        {
+          "id": 3, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        }
+      ],
+      "topUpHistory":[
+        {
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50
+        }
+      ]
+  }
 }
