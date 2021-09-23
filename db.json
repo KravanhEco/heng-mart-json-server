@@ -29,48 +29,48 @@
     {
       "day": "Monday",
       "isActive": true,
-      "slotOneStart": 1632355253000,
-      "slotOneEnd": 1632330053000,
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000,
       "slotTwoStart": 1632376853000,
       "slotTwoEnd": 1632391253000
     },
     {
       "day": "Tuesday",
       "isActive": true,
-      "slotOneStart": 1632355253000,
-      "slotOneEnd": 1632330053000,
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000,
       "slotTwoStart": 1632376853000,
       "slotTwoEnd": 1632391253000
     },
     {
       "day": "Wednesday",
       "isActive": true,
-      "slotOneStart": 1632355253000,
-      "slotOneEnd": 1632330053000,
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000,
       "slotTwoStart": 1632376853000,
       "slotTwoEnd": 1632391253000
     },
     {
       "day": "Thursday",
       "isActive": true,
-      "slotOneStart": 1632355253000,
-      "slotOneEnd": 1632330053000,
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000,
       "slotTwoStart": 1632376853000,
       "slotTwoEnd": 1632391253000
     },
     {
       "day": "Friday",
       "isActive": true,
-      "slotOneStart": 1632355253000,
-      "slotOneEnd": 1632330053000,
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000,
       "slotTwoStart": 1632376853000,
       "slotTwoEnd": 1632391253000
     },
     {
       "day": "Saturday",
       "isActive": true,
-      "slotOneStart": 1632355253000,
-      "slotOneEnd": 1632330053000,
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000,
       "slotTwoStart": 1632376853000,
       "slotTwoEnd": 1632391253000
     },
@@ -78,7 +78,7 @@
       "day": "Sunday",
       "isActive": true,
       "slotOneStart": 1632298871000,
-      "slotOneEnd": 1632330053000
+      "slotOneEnd":  1632330053000
     }
   ],
   "top-up-history-detail": [
@@ -172,192 +172,385 @@
   ],
   "order": [
     {
-      "id": 1,
-      "orderNumber": "ord-00001",
-      "orderDate": "23-09-2021 01:23",
-      "orderAmount": 10.5,
-      "orderItem": 3,
-      "status": 0,
-      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
-      "phone": "0982",
-      "fee": 0,
-      "orderdetailList": [
+      "id":1,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":0,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         }
       ]
     },
     {
-      "id": 2,
-      "orderNumber": "ord-00001",
-      "orderDate": "23-09-2021 01:23",
-      "orderAmount": 10.5,
-      "orderItem": 3,
-      "status": 0,
-      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
-      "phone": "0982",
-      "fee": 0,
-      "orderdetailList": [
+      "id":2,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":0,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         }
       ]
     },
     {
-      "id": 3,
-      "orderNumber": "ord-00001",
-      "orderDate": "23-09-2021 01:23",
-      "orderAmount": 10.5,
-      "orderItem": 3,
-      "status": 1,
-      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
-      "phone": "0982",
-      "fee": 0,
-      "orderdetailList": [
+      "id":3,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":1,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         }
       ]
     },
     {
-      "id": 4,
-      "orderNumber": "ord-00001",
-      "orderDate": "23-09-2021 01:23",
-      "orderAmount": 10.5,
-      "orderItem": 3,
-      "status": 2,
-      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
-      "phone": "0982",
-      "fee": 0,
-      "orderdetailList": [
+      "id":4,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":2,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         }
       ]
     },
     {
-      "id": 5,
-      "orderNumber": "ord-00001",
-      "orderDate": "23-09-2021 01:23",
-      "orderAmount": 10.5,
-      "orderItem": 3,
-      "status": 3,
-      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
-      "phone": "0982",
-      "fee": 0,
-      "orderdetailList": [
+      "id":5,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":3,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         },
         {
-          "title": "បាយមាន់ហៃណាំ",
+          "title": "បាយមាន់ហៃណាំ", 
           "quantity": 2,
           "currentPrice": 4.50,
-          "normalPrice": 5.00,
-          "totalamount": 9.00,
-          "addItem": "Spicy, and more potato"
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
         }
       ]
     }
   ],
-  "card": [
+  "newOrder":[
+    {
+      "id":1,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":0,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":0,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "cookingOrder":[
+    {
+      "id":3,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":1,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "deliveryOrder":[
+    {
+      "id":4,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":2,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "completedOrder":[
+    {
+      "id":5,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":3,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "card":[
     {
       "id": 1,
       "customerId": 1,
@@ -365,133 +558,169 @@
       "serial": "12345AH",
       "balance": 12.00,
       "point": 55,
-      "pointHistory": [
+      "pointHistory":[
         {
-          "id": 1,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
           "point": 5
         },
         {
-          "id": 2,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
+          "id": 2, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
           "point": 5
         },
         {
-          "id": 3,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
+          "id": 3, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
           "point": 5
         }
       ],
-      "topUpHistory": [
+      "topUpHistory":[
         {
-          "id": 1,
-          "dateTime": "10-07-2021 10:40 AM",
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
           "amount": 75.50
         },
         {
-          "id": 2,
-          "dateTime": "10-07-2021 10:40 AM",
+          "id": 2, 
+          "dateTime": "10-07-2021 10:40 AM", 
           "amount": 75.50
         },
         {
-          "id": 3,
-          "dateTime": "10-07-2021 10:40 AM",
+          "id": 3, 
+          "dateTime": "10-07-2021 10:40 AM", 
           "amount": 75.50
         }
       ]
+  },
+  {
+    "id": 2,
+    "customerId": 2,
+    "cardNumber": "234567",
+    "serial": "12345AH",
+    "balance": 12.00,
+    "point": 55,
+    "pointHistory":[
+      {
+        "id": 4, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50, 
+        "point": 5
+      },
+      {
+        "id": 5, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50, 
+        "point": 5
+      },
+      {
+        "id": 6, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50, 
+        "point": 5
+      }
+    ],
+    "topUpHistory":[
+      {
+        "id": 4, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50
+      },
+      {
+        "id": 5, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50
+      },
+      {
+        "id": 6, 
+        "dateTime": "10-07-2021 10:40 AM", 
+        "amount": 75.50
+      }
+    ]
+},
+{
+  "id": 3,
+  "customerId": 3,
+  "cardNumber": "234567",
+  "serial": "12345AH",
+  "balance": 12.00,
+  "point": 55,
+  "pointHistory":[
+    {
+      "id": 7, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50, 
+      "point": 5
     },
     {
-      "id": 2,
-      "customerId": 2,
-      "cardNumber": "234567",
-      "serial": "12345AH",
-      "balance": 12.00,
-      "point": 55,
-      "pointHistory": [
-        {
-          "id": 4,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "id": 5,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "id": 6,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        }
-      ],
-      "topUpHistory": [
-        {
-          "id": 4,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "id": 5,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "id": 6,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        }
-      ]
+      "id": 8, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50, 
+      "point": 5
     },
     {
-      "id": 3,
-      "customerId": 3,
-      "cardNumber": "234567",
-      "serial": "12345AH",
-      "balance": 12.00,
-      "point": 55,
-      "pointHistory": [
-        {
-          "id": 7,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "id": 8,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "id": 9,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        }
-      ],
-      "topUpHistory": [
-        {
-          "id": 7,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "id": 8,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "id": 9,
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        }
-      ]
+      "id": 9, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50, 
+      "point": 5
+    }
+  ],
+  "topUpHistory":[
+    {
+      "id": 7, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50
+    },
+    {
+      "id": 8, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50
+    },
+    {
+      "id": 9, 
+      "dateTime": "10-07-2021 10:40 AM", 
+      "amount": 75.50
     }
   ]
+}
+  ],
+  "cardByCustomerId":
+  {
+      "id": 1,
+      "customerId": 1,
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55,
+      "pointHistory":[
+        {
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        },
+        {
+          "id": 2, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        },
+        {
+          "id": 3, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50, 
+          "point": 5
+        }
+      ],
+      "topUpHistory":[
+        {
+          "id": 1, 
+          "dateTime": "10-07-2021 10:40 AM", 
+          "amount": 75.50
+        }
+      ]
+  }
 }
