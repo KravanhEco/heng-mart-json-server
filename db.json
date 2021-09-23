@@ -318,5 +318,198 @@
         }
       ]
     }
+  ],
+  "newOrder":[
+    {
+      "id":1,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":0,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":0,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "cookingOrder":[
+    {
+      "id":3,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":1,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "deliveryOrder":[
+    {
+      "id":4,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":2,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "completedOrder":[
+    {
+      "id":5,
+      "orderNumber":"ord-00001",
+      "orderDate":"23-09-2021 01:23",
+      "orderAmount":10.5,
+      "orderItem":3,
+      "status":3,
+      "customerAddress":"No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone":"0982",
+      "fee":0,
+      "orderdetailList":[
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ", 
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice":5.00,
+          "totalamount": 9.00, 
+          "addItem":"Spicy, and more potato"
+        }
+      ]
+    }
   ]
 }
