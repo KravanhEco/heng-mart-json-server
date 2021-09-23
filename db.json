@@ -481,123 +481,150 @@
     {
       "id":1,
       "name":"food",
-      "thumnils":"https://www.pnglib.com/wp-content/uploads/2020/01/food_5e19ce7632e46.png",
-      "category_list_detail":[
+      "thumnils":"https://www.pnglib.com/wp-content/uploads/2020/01/food_5e19ce7632e46.png"
+    },
+    {
+      "id":2,
+      "name":"snack",
+      "thumnils":"https://www.pngkey.com/png/full/4-49191_food-png-transparent-free-images-fast-food-clipart.png"
+    },
+    {
+      "id":3,
+      "name":"fruit",
+      "thumnils":"https://www.pngarts.com/files/11/Mix-Fruit-PNG-Image.png"
+    },
+    {
+      "id":4,
+      "name":"drink",
+      "thumnils":"https://www.freepnglogos.com/uploads/drinks-png/drinks-and-cocktails-14.png"
+    },
+    {
+      "id":5,
+      "name":"sauce",
+      "thumnils":"https://pngimg.com/uploads/sauce/sauce_PNG121.png"
+    }
+  ],
+  "category_list":[
+    {
+      "id":1,
+      "categoryName":"food",
+      "categoryId":1,
+      "listDetail":[
         {
           "name":"abc",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"dd",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"ijis",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"jisj",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },{
           "name":"jijs",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         }
       ]
     },
     {
       "id":2,
-      "name":"snack",
-      "thumnils":"https://www.pngkey.com/png/full/4-49191_food-png-transparent-free-images-fast-food-clipart.png",
-      "category_list_detail":[
+      "categoryName":"snack",
+      "categoryId":2,
+      "listDetail":[
         {
           "name":"skjs",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"kjs",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"skjos",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"mksls",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         }
       ]
     },
     {
       "id":3,
-      "name":"fruit",
-      "thumnils":"https://www.pngarts.com/files/11/Mix-Fruit-PNG-Image.png",
-      "category_list_detail":[
+      "categoryName":"fruit",
+      "categoryId":3,
+      "listDetail":[
         {
           "name":"kjns",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"kjskjs",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"kjnjks",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         }
       ]
     },
     {
       "id":4,
-      "name":"drink",
-      "thumnils":"https://www.freepnglogos.com/uploads/drinks-png/drinks-and-cocktails-14.png",
-      "category_list_detail":[
+      "categoryName":"drink",
+      "categoryId":4,
+      "listDetail":[
         {
           "name":"sdkjs",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         },
         {
           "name":"skijjso",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         }
       ]
     },
     {
       "id":5,
-      "name":"sauce",
-      "thumnils":"https://pngimg.com/uploads/sauce/sauce_PNG121.png",
-      "category_list_detail":[
+      "categoryName":"sauce",
+      "categoryId":5,
+      "listDetail":[
         {
           "name":"skjs",
           "price":0,
-          "isActive":false,
+          "isActive":0,
           "imageUrl":""
         }
       ]
