@@ -35,7 +35,47 @@
       "slotTwoEnd": 1632298871000
     },
     {
-      "day": "sunday",
+      "day": "Tuesday",
+      "isActive": true,
+      "slotOneStart": 1632298871000,
+      "slotOneEnd": 1632298871000,
+      "slotTwoStart": 1632298871000,
+      "slotTwoEnd": 1632298871000
+    },
+    {
+      "day": "Wednesday",
+      "isActive": true,
+      "slotOneStart": 1632298871000,
+      "slotOneEnd": 1632298871000,
+      "slotTwoStart": 1632298871000,
+      "slotTwoEnd": 1632298871000
+    },
+    {
+      "day": "Thursday",
+      "isActive": true,
+      "slotOneStart": 1632298871000,
+      "slotOneEnd": 1632298871000,
+      "slotTwoStart": 1632298871000,
+      "slotTwoEnd": 1632298871000
+    },
+    {
+      "day": "Friday",
+      "isActive": true,
+      "slotOneStart": 1632298871000,
+      "slotOneEnd": 1632298871000,
+      "slotTwoStart": 1632298871000,
+      "slotTwoEnd": 1632298871000
+    },
+    {
+      "day": "Saturday",
+      "isActive": true,
+      "slotOneStart": 1632298871000,
+      "slotOneEnd": 1632298871000,
+      "slotTwoStart": 1632298871000,
+      "slotTwoEnd": 1632298871000
+    },
+    {
+      "day": "Sunday",
       "isActive": true,
       "slotOneStart": 1632298871000,
       "slotOneEnd": 1632298871000,
